@@ -1,0 +1,15 @@
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\MainWindow.g.cs
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\App.g.cs
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime_MarkupCompile.cache
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime_MarkupCompile.lref
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\MainWindow.baml
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime.g.resources
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime.Properties.Resources.resources
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csproj.GenerateResource.Cache
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\Spencer Laird\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb
